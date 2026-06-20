@@ -15,7 +15,7 @@ A premium movie discovery application built with Next.js 15, Tailwind CSS, and t
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rahull2509/movie-finder-rahul.git
    cd movie-finder-rahul
    ```
 
